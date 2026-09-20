@@ -1,7 +1,6 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HalamanController;
+use Illuminate\Suport\Facades\Routes;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/halaman-utama', [HalamanController::class, 'HalamanUtama']);
