@@ -7,8 +7,8 @@ use Illuminate\Http\Request;
 class HalamanController extends Controller
 {
     //
-    public function HalamanUtama()
+    public function gogreen()
     {
-        return view('HalamanUtama');
+        return view('gogreen');
     }
 }
