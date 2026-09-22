@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class HalamanController extends Controller
+class gogreen extends Controller
 {
     //
     public function gogreen()
