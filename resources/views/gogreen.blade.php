@@ -42,7 +42,7 @@
                 <a href="#about" class="hover:text-green-400 transition">About</a>
                 <a href="#services" class="hover:text-green-400 transition">Services</a>
                 <a href="#blog" class="hover:text-green-400 transition">Blog</a>
-                <a href="#contact" class="hover:text-green-400 transition">Contact</a>
+                <a href="/gogreen2" class="hover:text-green-400 transition">Contact</a>
             </div>
 
             <!-- button -->
@@ -55,8 +55,7 @@
 
 
     <!-- heroo -->
-    <section class="relative min-h-130 flex items-center justify-center bg-cover bg-center"
-             style="background-image:linear-gradient(rgba(0,0,0,.48), rgba(0,0,0,.55)), url('https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=1600&q=80');">
+    <section class="relative min-h-130 flex items-center justify-center bg-green-800 bg-center">
         <div class="text-center text-white px-5 pt-10 max-w-4xl mb-20">
             <h1 class="text-5xl md:text-7xl font-extrabold leading-tight">
                 <span class="text-green-500">Go Green</span>
@@ -84,75 +83,10 @@
         </div>
 
 
-        
-        <div class="absolute bottom-0 left-0 w-full bg-black/55 backdrop-blur-sm">
-            <div class="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 py-6">
-                <div class="text-center border-r border-white/30">
-                    <h3 class="text-2xl font-bold text-white">10+</h3>
-                    <p class="text-[8px] text-gray-300 mt-1">
-                        Years Experience
-                    </p>
-                </div>
-
-                <div class="text-center md:border-r border-white/30">
-                    <h3 class="text-2xl font-bold text-white">150+</h3>
-                    <p class="text-[8px] text-gray-300 mt-1">
-                        Industry Served
-                    </p>
-                </div>
-
-                <div class="text-center border-r border-white/30 mt-5 md:mt-0">
-                    <h3 class="text-2xl font-bold text-white">2.5K+</h3>
-                    <p class="text-[8px] text-gray-300 mt-1">
-                        Professional Volunteers
-                    </p>
-                </div>
-
-                <div class="text-center mt-5 md:mt-0">
-                    <h3 class="text-2xl font-bold text-green-500">280Kg</h3>
-                    <p class="text-[8px] text-gray-300 mt-1">
-                        Plastic Waste Recycle
-                    </p>
-                </div>
-
-            </div>
-        </div>
-
+       
     </section>
 
 
-    
-    <section class="bg-black text-white py-5">
-
-        <p class="text-center text-[9px] tracking-widest mb-5">
-            OUR TRUSTED PARTNERS
-        </p>
-
-        <div class="max-w-5xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-5 px-5 text-center">
-
-            <div class="text-sm font-medium">
-                🌱 BioGrove
-            </div>
-
-            <div class="text-sm font-medium">
-                🍃 NatureEase
-            </div>
-
-            <div class="text-sm font-medium">
-                🍃 EcoEscape
-            </div>
-
-            <div class="text-sm font-medium">
-                🤍 LeafLife
-            </div>
-
-            <div class="text-sm font-medium">
-                ♻️ GreenZen
-            </div>
-
-        </div>
-
-    </section>
 
 
 
@@ -264,9 +198,9 @@
                     </h3>
 
                     <ul class="space-y-3 text-xs text-gray-400">
-                        <li>📍 Indonesia</li>
-                        <li>📧 hello@greenle.com</li>
-                        <li>📞 +62 812 3456 7890</li>
+                        <li> Indonesia</li>
+                        <li> hello@greenle.com</li>
+                        <li> +62 812 3456 7890</li>
                     </ul>
 
                     <div class="flex gap-3 mt-5">

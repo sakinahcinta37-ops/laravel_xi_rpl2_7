@@ -11,4 +11,9 @@ class gogreen extends Controller
     {
         return view('gogreen');
     }
+
+    public function gogreen2()
+    {
+        return view('gogreen2');
+    }
 }
