@@ -25,9 +25,9 @@
             </div>
 
             <!-- button -->
-            <a href="#contact"
+            <a href="/signup"
                class="border border-white/60 rounded-full px-5 py-2 text-xs text-white hover:bg-green-500 hover:border-green-500 transition">
-                Get Started
+                Create Account
             </a>
         </div>
     </nav>

@@ -48,7 +48,6 @@
                        name="email"
                        placeholder="Enter your email"
                        value="{{ old('email') }}"
-                       required
                        class="w-full px-4 py-3 bg-slate-50 border border-gray-200 rounded-xl text-gray-800 placeholder-gray-400 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition">
 
                 @error('email')
@@ -66,7 +65,7 @@
                        name="username"
                        placeholder="Choose a username"
                        value="{{ old('username') }}"
-                       required
+                    
                        class="w-full px-4 py-3 bg-slate-50 border border-gray-200 rounded-xl text-gray-800 placeholder-gray-400 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition">
 
                 @error('username')
@@ -83,7 +82,7 @@
                 <input type="password"
                        name="password"
                        placeholder="Enter your password"
-                       required
+                    
                        class="w-full px-4 py-3 bg-slate-50 border border-gray-200 rounded-xl text-gray-800 placeholder-gray-400 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition">
 
                 @error('password')
@@ -100,7 +99,7 @@
                 <input type="password"
                        name="confirmpassword"
                        placeholder="Confirm your password"
-                       required
+                    
                        class="w-full px-4 py-3 bg-slate-50 border border-gray-200 rounded-xl text-gray-800 placeholder-gray-400 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition">
 
                 @error('confirmpassword')
